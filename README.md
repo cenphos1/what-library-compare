@@ -13,12 +13,12 @@ All of these are imported in
 
 * Requests 
 
-    pip install requests
+     pip install requests
 
 * whatapi (already have the files in the repo) credit to [isaaczafuta](https://github.com/isaaczafuta/whatapi)
 * Beautiful Soup 
 
-    pip install beautifulsoup4
+     pip install beautifulsoup4
 
 ## Variables
 
