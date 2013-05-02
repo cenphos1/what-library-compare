@@ -12,9 +12,12 @@ I'd recommend setting up a virtualenv to run it in.
 All of these are imported in
 
 * Requests 
+
     pip install requests
+
 * whatapi (already have the files in the repo) credit to [isaaczafuta](https://github.com/isaaczafuta/whatapi)
 * Beautiful Soup 
+
     pip install beautifulsoup4
 
 ## Variables
